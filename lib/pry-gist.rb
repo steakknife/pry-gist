@@ -1,1 +1,1 @@
-require 'gist'
+require 'jist'
