@@ -10,9 +10,9 @@ There's nothing to configure.
 
 #### https://github.com/pry/pry#gist-integration
 
-This is a virtual gem to semantically require gist.
+This is a virtual gem to semantically require jist.
 
-Functionality is provided entirely between gist and pry.
+Functionality is provided entirely between jist and pry.
 
 ## Patches Welcome!
 

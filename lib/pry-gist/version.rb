@@ -1,3 +1,3 @@
 module PryGist
-  VERSION = '5.1.12'
+  VERSION = '5.1.13'
 end
